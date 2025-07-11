@@ -1,3 +1,3 @@
 <?php
-
-$apiKey = "";
+$CONFIG = array();
+$CONFIG['apiKey'] = "";
